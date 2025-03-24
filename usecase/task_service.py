@@ -1,5 +1,5 @@
-from infrastructure.task_repository import TaskRepository
-from domain.task import Task
+from repository.task_repository import TaskRepository
+from entities.task import Task
 from typing import List
 
 class TaskService:

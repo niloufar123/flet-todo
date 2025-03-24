@@ -1,4 +1,4 @@
-from domain.task import Task
+from entities.task import Task
 from typing import List
 import json
 import os
